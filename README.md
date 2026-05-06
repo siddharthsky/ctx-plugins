@@ -10,7 +10,7 @@ This repository contains plugin configurations, helper scripts, and setup files 
 | Plugin Code | Plugin Title | Author | GitHub Repo |
 | :---: | :--- | :--- | :--- |
 | `4141` | **IPTV-ORG** | iptv-org | [iptv-org/iptv](https://github.com/iptv-org/iptv) |
-| `5006` | **JioTVGO Offical** | JioTV-Go | [JioTV-Go/jiotv_go](https://github.com/JioTV-Go/jiotv_go) |
+| `5006` | **JioTVGO Official** | JioTV-Go | [JioTV-Go/jiotv_go](https://github.com/JioTV-Go/jiotv_go) |
 | `5007` | **JioTVGO [atuanuroy]** | atuanuroy | [atanuroy22/jiotv_go](https://github.com/atanuroy22/jiotv_go) |
 | `5008` | **JioTV+ [Jitendraunatti]** | Jitendraunatti | [Jitendraunatti/JioTv](https://github.com/Jitendraunatti/JioTv) |
 | `5009` | **TS-JioTV** | mitthu786 | [mitthu786/TS-JioTV](https://github.com/mitthu786/TS-JioTV) |

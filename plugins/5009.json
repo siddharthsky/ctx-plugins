@@ -1,0 +1,11 @@
+{
+  "title": "TS-JioTV",
+  "repo": "https://github.com/mitthu786/TS-JioTV",
+  "bin_download": "",
+  "port": 5009,
+  "playlist": "http://localhost:5009/app/playlist.php",
+  "server_check_url": "http://localhost:5009",
+  "login_url": "http://localhost:5009",
+  "pkg": ["php", "git", "wget"],
+  "start": "php -S 0.0.0.0:5009 -t ."
+}

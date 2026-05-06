@@ -1,0 +1,10 @@
+{
+  "title": "ZEE 5 Alt",
+  "repo": "https://raw.githubusercontent.com/siddharthsky/ctx-plugins/refs/heads/main/assets/zee5-main.zip",
+  "bin_download": "",
+  "port": 8384,
+  "playlist": "http://localhost:8384/playlist.php",
+  "server_check_url": "http://localhost:8384/playlist.php",
+  "pkg": ["php", "git"],
+  "start": "php -S 0.0.0.0:8384 -t ."
+}

@@ -1,0 +1,14 @@
+{
+  "title": "JioTVGO",
+  "repo": "https://github.com/JioTV-Go/jiotv_go",
+  "bin_download": "empty_url",
+  "port": 5006,
+  "playlist": "http://localhost:5006/playlist.m3u",
+  "server_check_url": "http://localhost:5006/play/143",
+  "login_url": "http://localhost:5006",
+  "pkg": [],
+  "start": "./run.bin run --port 5006 --public",
+  "post_install_script": "https://raw.githubusercontent.com/siddharthsky/ctx-plugins/refs/heads/main/scripts/5006_post.sh",
+  "updatable": true,
+  "_note": "Do not rename 'run.bin'; it is hardcoded and must be used as-is. Add arguments to the start command if needed. "
+}

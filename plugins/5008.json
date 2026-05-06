@@ -1,0 +1,11 @@
+{
+  "title": "JioTV+ [Jitendraunatti]",
+  "repo": "https://github.com/Jitendraunatti/JioTv",
+  "bin_download": "",
+  "port": 5008,
+  "playlist": "http://localhost:5008/playlist.php",
+  "server_check_url": "http://localhost:5008",
+  "login_url": "http://localhost:5008",
+  "pkg": ["php", "git", "wget"],
+  "start": "php -S 0.0.0.0:5008 -t ."
+}

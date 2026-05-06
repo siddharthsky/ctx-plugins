@@ -1,0 +1,10 @@
+{
+  "title": "ZEE 5",
+  "repo": "https://github.com/yuvraj824/zee5",
+  "bin_download": "",
+  "port": 8383,
+  "playlist": "http://localhost:8383/playlist.php",
+  "server_check_url": "http://localhost:8383/playlist.php",
+  "pkg": ["php", "git"],
+  "start": "php -S 0.0.0.0:8383 -t ."
+}

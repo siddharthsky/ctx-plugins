@@ -1,0 +1,15 @@
+{
+  "title": "JioTVGO atuanuroy-PRE",
+  "repo": "https://github.com/JioTV-Go/jiotv_go",
+  "bin_download": "empty_url",
+  "port": 5007,
+  "playlist": "http://localhost:5007/playlist.m3u",
+  "server_check_url": "http://localhost:5007/play/143",
+  "login_url": "http://localhost:5007",
+  "watch_url": "http://localhost:5007",
+  "pkg": [],
+  "start": "./run.bin run --port 5007 --public",
+  "post_install_script": "https://raw.githubusercontent.com/siddharthsky/ctx-plugins/refs/heads/main/scripts/5007_post.sh",
+  "updatable": true,
+  "_note": "Do not rename 'run.bin'; it is hardcoded and must be used as-is. Add arguments to the start command if needed. "
+}

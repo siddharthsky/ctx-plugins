@@ -1,0 +1,10 @@
+{
+  "title": "ZEE 5 [tg-aadi]",
+  "repo": "https://github.com/tg-aadi/zee5",
+  "bin_download": "",
+  "port": 8385,
+  "playlist": "http://localhost:8385/playlist.php",
+  "server_check_url": "http://localhost:8385/playlist.php",
+  "pkg": ["php", "git"],
+  "start": "php -S 0.0.0.0:8385 -t ."
+}

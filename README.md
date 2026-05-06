@@ -1,7 +1,16 @@
-# 🚀 CustTermux Engine — Plugin Repository
+<h1 align="center">
+  <br>
+  <a href="#">
+    <img src="assets/tx_ctx_engine_1.png" alt="CustTermux Engine" width="200">
+  </a>
+  <br>
+  CustTermux Engine — Plugin Repository
+  <br>
+</h1>
 
-Welcome to the official plugin repository for **CustTermux Engine**.  
-This repository contains plugin configurations, helper scripts, and setup files required to run IPTV playback servers seamlessly inside the app environment.
+<p align="center">Welcome to the official plugin repository for CustTermux Engine.  </p>
+
+This repository contains plugin configurations, helper scripts, and setup files required to run IPTV playback servers seamlessly.
 
 ---
 

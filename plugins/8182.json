@@ -1,0 +1,9 @@
+{
+  "title": "DRM Live [Modified]",
+  "repo": "https://raw.githubusercontent.com/siddharthsky/ctx-plugins/refs/heads/main/assets/drm_live_15.05.2026.zip",
+  "port": 8182,
+  "playlist": "http://localhost:8182/playlist.php",
+  "server_check_url": "http://localhost:8182/",
+  "login_url": "http://localhost:8182",
+  "start": "php -S 0.0.0.0:8182 -t ."
+}

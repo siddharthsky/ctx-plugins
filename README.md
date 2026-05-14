@@ -16,7 +16,7 @@ This repository contains plugin configurations, helper scripts, and setup files 
 
 # 🔌 Available Plugins
 
-| Plugin Code | Plugin Title | Author | GitHub Repo |
+| Plugin Code | Plugin Title | Author | URL |
 | :---: | :--- | :--- | :--- |
 | `4141` | **IPTV-ORG** | iptv-org | [iptv-org/iptv](https://github.com/iptv-org/iptv) |
 | `5006` | **JioTVGO Official** | JioTV-Go | [JioTV-Go/jiotv_go](https://github.com/JioTV-Go/jiotv_go) |
@@ -24,7 +24,7 @@ This repository contains plugin configurations, helper scripts, and setup files 
 | `5008` | **JioTV+ [Jitendraunatti]** | Jitendraunatti | [Jitendraunatti/JioTv](https://github.com/Jitendraunatti/JioTv) |
 | `5009` | **TS-JioTV** | mitthu786 | [mitthu786/TS-JioTV](https://github.com/mitthu786/TS-JioTV) |
 | `8181` | **DRM Live** | drmlive | [drmlive/tataplay](https://github.com/drmlive/tataplay) |
-| `8383` | **ZEE 5 [yuvraj824]** | yuvraj824 | [yuvraj824/zee5](https://github.com/yuvraj824/zee5) |
+| `8182` | **DRM Live [Modified]** | drmlive | [ctx-assets](https://github.com/siddharthsky/ctx-plugins/blob/main/assets/drm_live_15.05.2026.zip) |
 
 ---
 
@@ -39,6 +39,7 @@ They may be outdated, unstable, unsupported, or currently non-working.
 | Plugin Code | Plugin Title | Status | GitHub Repository |
 | :---: | :--- | :--- | :--- |
 | `5010` | **JioTVGO v3.16.3** | Legacy | https://github.com/JioTV-Go/jiotv_go |
+| `8384` | **ZEE5 [yuvraj824]** | Not Working | https://github.com/yuvraj824/zee5 |
 | `8384` | **ZEE5 [yuvraj824] - Fix** | Experimental | https://github.com/yuvraj824/zee5 |
 | `8385` | **ZEE5 [tg-aadi]** | Unstable | https://github.com/tg-aadi/zee5 |
 

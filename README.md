@@ -20,7 +20,6 @@ This repository contains plugin configurations, helper scripts, and setup files 
 | :---: | :--- | :--- | :--- |
 | `4141` | **IPTV-ORG** | iptv-org | [iptv-org/iptv](https://github.com/iptv-org/iptv) |
 | `5006` | **JioTVGO Official** | JioTV-Go | [JioTV-Go/jiotv_go](https://github.com/JioTV-Go/jiotv_go) |
-| `5007` | **JioTVGO [atuanuroy]** | atuanuroy | [atanuroy22/jiotv_go](https://github.com/atanuroy22/jiotv_go) |
 | `5008` | **JioTV+ [Jitendraunatti]** | Jitendraunatti | [Jitendraunatti/JioTv](https://github.com/Jitendraunatti/JioTv) |
 | `5009` | **TS-JioTV** | mitthu786 | [mitthu786/TS-JioTV](https://github.com/mitthu786/TS-JioTV) |
 | `8181` | **DRM Live** | drmlive | [drmlive/tataplay](https://github.com/drmlive/tataplay) |
@@ -70,7 +69,6 @@ Special thanks to the amazing developers and open-source communities whose work 
 - iptv-org
 - JioTV-Go
 - rabilrbl
-- atuanuroy
 - Jitendraunatti
 - mitthu786
 - drmlive

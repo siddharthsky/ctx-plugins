@@ -24,7 +24,6 @@ This repository contains plugin configurations, helper scripts, and setup files 
 | `5008` | **JioTV+ [Jitendraunatti]** | Jitendraunatti | [Jitendraunatti/JioTv](https://github.com/Jitendraunatti/JioTv) |
 | `5009` | **TS-JioTV** | mitthu786 | [mitthu786/TS-JioTV](https://github.com/mitthu786/TS-JioTV) |
 | `8181` | **DRM Live** | drmlive | [drmlive/tataplay](https://github.com/drmlive/tataplay) |
-| `8182` | **DRM Live [Modified]** | drmlive | [ctx-assets](https://github.com/siddharthsky/ctx-plugins/blob/main/assets/drm_live_15.05.2026.zip) |
 
 ---
 

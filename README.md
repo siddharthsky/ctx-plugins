@@ -16,13 +16,13 @@ This repository contains plugin configurations, helper scripts, and setup files 
 
 # 🔌 Available Plugins
 
-| Plugin Code | Plugin Title | Author | URL |
-| :---: | :--- | :--- | :--- |
-| `4141` | **IPTV-ORG** | iptv-org | [iptv-org/iptv](https://github.com/iptv-org/iptv) |
-| `5006` | **JioTVGO Official** | JioTV-Go | [JioTV-Go/jiotv_go](https://github.com/JioTV-Go/jiotv_go) |
-| `5008` | **JioTV+ [Jitendraunatti]** | Jitendraunatti | [Jitendraunatti/JioTv](https://github.com/Jitendraunatti/JioTv) |
-| `5009` | **TS-JioTV** | mitthu786 | [mitthu786/TS-JioTV](https://github.com/mitthu786/TS-JioTV) |
-| `8181` | **DRM Live** | drmlive | [drmlive/tataplay](https://github.com/drmlive/tataplay) |
+| Plugin Code |  Status  | Plugin Title                | Author         | URL                                                             |
+| :---------: | :------: | :-------------------------- | :------------- | :-------------------------------------------------------------- |
+|    `4141`   | ✅ | **IPTV-ORG**                | iptv-org       | [iptv-org/iptv](https://github.com/iptv-org/iptv)               |
+|    `5006`   | ✅ | **JioTVGO Official**        | JioTV-Go       | [JioTV-Go/jiotv_go](https://github.com/JioTV-Go/jiotv_go)       |
+|    `5008`   | ✅ | **JioTV+ [Jitendraunatti]** | Jitendraunatti | [Jitendraunatti/JioTv](https://github.com/Jitendraunatti/JioTv) |
+|    `5009`   | ✅ | **TS-JioTV**                | mitthu786      | [mitthu786/TS-JioTV](https://github.com/mitthu786/TS-JioTV)     |
+|    `8181`   | ✅ | **DRM Live**                | drmlive        | [drmlive/tataplay](https://github.com/drmlive/tataplay)         |
 
 ---
 
@@ -31,18 +31,47 @@ This repository contains plugin configurations, helper scripts, and setup files 
 
 <br>
 
-These plugins are preserved for testing, archival purposes, compatibility checks, or partial functionality.  
+These plugins are preserved for testing, archival purposes, compatibility checks, or partial functionality.
 They may be outdated, unstable, unsupported, or currently non-working.
 
-| Plugin Code | Plugin Title | Status | GitHub Repository |
-| :---: | :--- | :--- | :--- |
-| `5010` | **JioTVGO v3.16.3** | Legacy | https://github.com/JioTV-Go/jiotv_go |
-| `8384` | **ZEE5 [yuvraj824]** | Not Working | https://github.com/yuvraj824/zee5 |
-| `8384` | **ZEE5 [yuvraj824] - Fix** | Experimental | https://github.com/yuvraj824/zee5 |
-| `8385` | **ZEE5 [tg-aadi]** | Unstable | https://github.com/tg-aadi/zee5 |
+<table>
+<tr>
+<th>Plugin Code</th>
+<th>Status</th>
+<th>Plugin Title</th>
+<th>GitHub Repository</th>
+</tr>
+
+<tr>
+<td align="center"><code>5010</code></td>
+<td align="center">Legacy</td>
+<td><b>JioTVGO v3.16.3</b></td>
+<td><a href="https://github.com/JioTV-Go/jiotv_go">JioTV-Go/jiotv_go</a></td>
+</tr>
+
+<tr>
+<td align="center"><code>8384</code></td>
+<td align="center">Broken</td>
+<td><b>ZEE5 [yuvraj824]</b></td>
+<td><a href="https://github.com/yuvraj824/zee5">yuvraj824/zee5</a></td>
+</tr>
+
+<tr>
+<td align="center"><code>8384</code></td>
+<td align="center">Experimental</td>
+<td><b>ZEE5 [yuvraj824] - Fix</b></td>
+<td><a href="https://github.com/yuvraj824/zee5">yuvraj824/zee5</a></td>
+</tr>
+
+<tr>
+<td align="center"><code>8385</code></td>
+<td align="center">Unstable</td>
+<td><b>ZEE5 [tg-aadi]</b></td>
+<td><a href="https://github.com/tg-aadi/zee5">tg-aadi/zee5</a></td>
+</tr>
+</table>
 
 </details>
-
 
 ---
 

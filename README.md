@@ -22,6 +22,7 @@ This repository contains plugin configurations, helper scripts, and setup files 
 |    `5006`   | ✅ | **JioTVGO Official**        | JioTV-Go       | [JioTV-Go/jiotv_go](https://github.com/JioTV-Go/jiotv_go)       |
 |    `5008`   | ✅ | **JioTV+ [Jitendraunatti]** | Jitendraunatti | [Jitendraunatti/JioTv](https://github.com/Jitendraunatti/JioTv) |
 |    `5009`   | ✅ | **TS-JioTV**                | mitthu786      | [mitthu786/TS-JioTV](https://github.com/mitthu786/TS-JioTV)     |
+|    `8183`   | ✅ | **Tata Play [DenverIsAlive]**                | DenverIsAlive        | [DenverIsAlive](https://github.com/DenverIsAlive/denverisalive.github.io)         |
 |    `8181`   | ✅ | **DRM Live**                | drmlive        | [drmlive/tataplay](https://github.com/drmlive/tataplay)         |
 
 ---

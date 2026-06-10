@@ -1,0 +1,9 @@
+{
+  "title": "Tata Play [DenverIsAlive]",
+  "repo": "https://raw.githubusercontent.com/denverisalive/denverisalive.github.io/refs/heads/main/Script/TP_v1.5.zip",
+  "port": 8183,
+  "playlist": "http://localhost:8183/Playlist.php",
+  "server_check_url": "http://localhost:8183/",
+  "login_url": "http://localhost:8183/login.php",
+  "start": "php -S 0.0.0.0:8183 -t ."
+}

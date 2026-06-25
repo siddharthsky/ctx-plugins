@@ -64,7 +64,7 @@ esac
 echo "Step 2: Identified processor architecture as $ARCH"
 
 # Step 3: Fetch the latest binary
-BINARY_URL="https://github.com/atanuroy22/jiotv_go/releases/latest/download/jiotv_go-$OS-$ARCH"
+BINARY_URL="https://github.com/atanuroy22/jiotv_go_1/releases/latest/download/jiotv_go-$OS-$ARCH"
 echo "Step 3: Fetching the latest binary from $BINARY_URL"
 # If any existing binary is present, delete it
 if [[ -f "jiotv_go" ]]; then

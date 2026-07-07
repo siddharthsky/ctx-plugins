@@ -1,5 +1,5 @@
 {
   "title": "IPTV org (global)",
-  "port": 4142,
+  "port": 4140,
   "playlist": "https://iptv-org.github.io/iptv/index.m3u"
 }

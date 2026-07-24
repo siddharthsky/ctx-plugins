@@ -13,15 +13,12 @@
 This repository contains plugin configurations, helper scripts, and setup files required to run IPTV playback servers seamlessly.
 
 ---
-
-# 🔌 Available Plugins
-
-| Plugin Code |  Status  | Plugin Title                | Author         | URL                                                             |
-| :---------: | :------: | :-------------------------- | :------------- | :-------------------------------------------------------------- |
-|    `4141`   | ✅ | **IPTV-ORG**                | iptv-org       | [iptv-org/iptv](https://github.com/iptv-org/iptv)               |
-|    `5006`   | ✅ | **JioTVGO Official**        | JioTV-Go       | [JioTV-Go/jiotv_go](https://github.com/JioTV-Go/jiotv_go)       |
-|    `8183`   | ✅ | **Tata Play [DenverIsAlive]**                | DenverIsAlive        | [DenverIsAlive](https://github.com/DenverIsAlive/denverisalive.github.io)         |
-|    `8181`   | ✅ | **DRM Live**                | drmlive        | [drmlive/tataplay](https://github.com/drmlive/tataplay)         |
+| Plugin Code | Status | Plugin Title                  | Author        | URL                                                                       | Notes                                                   |
+| :---------: | :----: | :---------------------------- | :------------ | :------------------------------------------------------------------------ | :------------------------------------------------------ |
+|    `4141`   |    ✅   | **IPTV-ORG**                  | iptv-org      | [iptv-org/iptv](https://github.com/iptv-org/iptv)                         | Publicly available IPTV channels.                       |
+|    `5006`   |    ✅   | **JioTVGO Official**          | JioTV-Go      | [JioTV-Go/jiotv_go](https://github.com/JioTV-Go/jiotv_go)                 | A valid JioTV recharge is required to watch all channels. |
+|    `8183`   |    ✅   | **Tata Play [DenverIsAlive]** | DenverIsAlive | [DenverIsAlive](https://github.com/DenverIsAlive/denverisalive.github.io) | Requires an active Tata Play subscription.              |
+|    `8181`   |    ✅   | **DRM Live**                  | drmlive       | [drmlive/tataplay](https://github.com/drmlive/tataplay)                   | Requires a valid subscription.                          |
 
 ---
 

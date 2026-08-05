@@ -8,43 +8,35 @@
   <br>
 </h1>
 
-<p align="center">Welcome to the official plugin repository for CustTermux Engine.  </p>
+<p align="center">
+  Welcome to the official plugin repository for <strong>CustTermux Engine</strong>.
+</p>
 
 This repository contains plugin configurations, helper scripts, and setup files required to run IPTV playback servers seamlessly.
 
 ---
-| Plugin Code | Status | Plugin Title                  | Author        | URL                                                                       | Notes                                                   |
-| :---------: | :----: | :---------------------------- | :------------ | :------------------------------------------------------------------------ | :------------------------------------------------------ |
-|    `4141`   |    ✅   | **IPTV-ORG**                  | iptv-org      | [iptv-org/iptv](https://github.com/iptv-org/iptv)                         | Publicly available IPTV channels.                       |
-|    `5006`   |    ✅   | **JioTVGO Official**          | JioTV-Go      | [JioTV-Go/jiotv_go](https://github.com/JioTV-Go/jiotv_go)                 | A valid JioTV recharge is required to watch all channels. |
-|    `8183`   |    ✅   | **Tata Play [DenverIsAlive]** | DenverIsAlive | [DenverIsAlive](https://github.com/DenverIsAlive/denverisalive.github.io) | Requires an active Tata Play subscription.              |
-|    `8181`   |    ✅   | **DRM Live**                  | drmlive       | [drmlive/tataplay](https://github.com/drmlive/tataplay)                   | Requires a valid subscription.                          |
+
+## 📦 Available Plugins
+
+| Plugin Code | Status | Plugin Title | Author | Repository | Notes |
+|:-----------:|:------:|:------------|:-------|:-----------|:------|
+| `4141` | ✅ | **IPTV-ORG** | iptv-org | [iptv-org/iptv](https://github.com/iptv-org/iptv) | Publicly available IPTV channels. |
+| `5006` | ✅ | **JioTVGO Official** | JioTV-Go | [JioTV-Go/jiotv_go](https://github.com/JioTV-Go/jiotv_go) | A valid JioTV recharge is required to watch all channels. |
+| `8183` | ✅ | **Tata Play (DenverIsAlive)** | DenverIsAlive | [DenverIsAlive](https://github.com/DenverIsAlive/denverisalive.github.io) | Requires an active Tata Play subscription. |
+| `8181` | ✅ | **DRM Live** | drmlive | [drmlive/tataplay](https://github.com/drmlive/tataplay) | Requires a valid subscription. |
 
 ---
 
 <details>
-<summary><b>🧪 Experimental / Legacy / Broken Plugins</b></summary>
+<summary><strong>🧪 Experimental / Legacy / Broken Plugins</strong></summary>
 
 <br>
 
-These plugins are preserved for testing, archival purposes, compatibility checks, or partial functionality.
-They may be outdated, unstable, unsupported, or currently non-working.
+These plugins are preserved for testing, archival purposes, compatibility checks, or historical reference. They may be outdated, unstable, unsupported, or currently non-functional.
 
-<table>
-<tr>
-<th>Plugin Code</th>
-<th>Status</th>
-<th>Plugin Title</th>
-<th>GitHub Repository</th>
-</tr>
-
-<tr>
-<td align="center"><code>5010</code></td>
-<td align="center">Legacy</td>
-<td><b>JioTVGO v3.16.3</b></td>
-<td><a href="https://github.com/JioTV-Go/jiotv_go">JioTV-Go/jiotv_go</a></td>
-</tr>
-
+| Plugin Code | Status | Plugin Title | Repository |
+|:-----------:|:------:|:-------------|:-----------|
+| `5010` | Legacy | **JioTVGO v3.16.3** | [JioTV-Go/jiotv_go](https://github.com/JioTV-Go/jiotv_go) |
 
 </details>
 
@@ -54,13 +46,14 @@ They may be outdated, unstable, unsupported, or currently non-working.
 
 We are always looking to expand the available plugin collection.
 
-If you know of a project, repository, or server that can be used for serving IPTV channels and can work with **CustTermux Engine**, contributions are welcome.
+If you know of a project, repository, or server that can be used for serving IPTV channels and is compatible with **CustTermux Engine**, contributions are welcome.
 
 You can contribute by:
+
 - Adding new plugin configurations
 - Improving existing plugins
 - Adding helper scripts or setup improvements
-- Reporting broken repositories or fixes
+- Reporting broken repositories or submitting fixes
 
 Every contribution helps improve the ecosystem for everyone.
 
@@ -72,8 +65,9 @@ Special thanks to the amazing developers and open-source communities whose work 
 
 - iptv-org
 - JioTV-Go
-- rabilrbl
+- DenverIsAlive
 - drmlive
+- rabilrbl
 
 Their contributions make this ecosystem possible.
 
@@ -85,9 +79,9 @@ All scripts, server binaries, APIs, repositories, and streaming services linked 
 
 This repository does **not** claim ownership of any third-party services, APIs, or streaming implementations.
 
-The purpose of this project is simply to provide a convenient bridge that allows these tools to be easily accessible, installable, and executable within the **CustTermux Engine** environment.
+The purpose of this project is to provide a convenient bridge that makes these tools easily accessible, installable, and executable within the **CustTermux Engine** environment.
 
-Full credit goes directly to the original creators and maintainers of the respective repositories.
+Full credit belongs to the original creators and maintainers of the respective repositories.
 
 If you are the owner of any linked project and would like attribution updates, modifications, or removal requests, please open an issue or contact the maintainer.
 
@@ -97,14 +91,15 @@ If you are the owner of any linked project and would like attribution updates, m
 
 This repository primarily contains plugin configuration files and helper integration scripts.
 
-Each linked repository/project follows its own individual license terms and conditions.
+Each linked repository or project is distributed under its own license.
 
-Please review and comply with the original repository licenses before usage or redistribution.
+Please review and comply with the original repository licenses before using or redistributing any third-party software.
 
 ---
 
 <div align="center">
 
-### ⭐ Powered by the CustTermux Engine Ecosystem
+## ⭐ Powered by the CustTermux Engine Ecosystem
 
 </div>
+
